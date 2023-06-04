@@ -1,0 +1,1 @@
+- Cache Memory 의 역할
