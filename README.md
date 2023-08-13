@@ -10,3 +10,10 @@
 - [CPU 스케줄링의 종류](https://github.com/yeonjaee/Computer-Science/issues/6)
 - [메모리 구조의 순서](https://github.com/yeonjaee/Computer-Science/issues/7)
 - [멀티 프로세스와 멀티 스레드의 차이점](https://github.com/yeonjaee/Computer-Science/issues/8)
+- [외부단편화, 내부단편화](https://github.com/yeonjaee/Computer-Science/issues/9)
+- [Paging 과 Segmentation](https://github.com/yeonjaee/Computer-Science/issues/10)
+- [가상 메모리의 개념과 사용할시의 장단점](https://github.com/yeonjaee/Computer-Science/issues/11)
+
+## NETWORK
+- [TCP 와 UDP의 특징과 차이점](https://github.com/yeonjaee/Computer-Science/issues/12)
+- [HTTP GET과 POST의 차이](https://github.com/yeonjaee/Computer-Science/issues/13)
